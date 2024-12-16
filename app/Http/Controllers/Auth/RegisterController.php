@@ -29,7 +29,7 @@ class RegisterController extends Controller
      *
      * @var string
      */
-    protected $redirectTo = '/my-account';
+    protected $redirectTo = Constants::DASHBOARD_URL;
 
     /**
      * Create a new controller instance.

@@ -15,8 +15,8 @@ class SettingSeeder extends Seeder
     {
         $setting = new Setting();
 
-        $setting->name = "LaraAi";
-        $setting->url = "https://first-script.local";
+        $setting->name = "Snesar";
+        $setting->url = "https://my-work.local/web/sensar/public";
         $setting->email = "admin@gmail.com";
 
         $setting->google_active = 1;

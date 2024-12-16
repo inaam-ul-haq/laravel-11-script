@@ -8,6 +8,8 @@ class Constants
     const SUPERADMIN = 'admin';
     const USER = 'user';
 
+    const DASHBOARD_URL = 'my-account';
+
     // image types
     const LOGOTYPE = 'logo';
     const IMAGETYPE = 'image';
